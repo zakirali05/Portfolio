@@ -3,7 +3,7 @@ import Image from "next/image";
 import img from "../images/angel.png";
 const Preview = () => {
   return (
-    <div className="w-screen overflow-hidden   flex-col gap-2  h-screen flex items-center justify-center bg-white  ">
+    <div className=" z  w-screen overflow-hidden   flex-col gap-2  h-screen flex items-center justify-center bg-white  ">
       <div
         className={`text flex gap-5 flex-col items-center justify-center     text-black  `}
       >

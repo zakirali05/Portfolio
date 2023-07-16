@@ -1,5 +1,7 @@
+import Image from "next/image";
+import hero from "../images/hero.jpg";
 const Home = () => {
-  return <div className="w-screen h-screen   bg-black">hero</div>;
+  return <div className="w-screen      bg-black">Home</div>;
 };
 
 export default Home;

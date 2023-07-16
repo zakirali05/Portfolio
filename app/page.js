@@ -39,7 +39,7 @@ export default function Home() {
       <motion.div
         variants={varients}
         animate="default"
-        className="cursor   h-[32px] w-[32px] flex items-center justify-center  rounded-full bg-white/30 fixed top-0 left-0 "
+        className="cursor z  h-[32px] w-[32px] flex items-center justify-center  rounded-full bg-white/30 fixed top-0 left-0 "
       >
         <div className="div h-[20px] w-[20px] rounded-full bg-white animate-ping "></div>
       </motion.div>
